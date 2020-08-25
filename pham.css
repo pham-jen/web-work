@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  line-height: 175%;
+  background-color: #f1d1d1;
+  background-image: url(extras/stars.png);
+  background-attachment: fixed;
+}
+#header li{
+  display: inline;
+  margin-top: 0;
+  padding: 2em 1em 2em 1em;
+  background-color: #e19999;
+}
+.navigation{
+  text-align: center;
+  list-style-type:none;
+}
+
+h1 {
+  text-align: center;
+  font: bold 300% 'Playball', cursive;
+  text-shadow: .1em .1em .2em #fab7b7;
+  color: #939;
+}
+h2 {
+  padding: 1em;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-align: left;
+  color: #7d5a5a;
+}
+
+#favorites
+{
+background-color: #e19999;
+}
+
+#portfolioContent ul{
+list-style-type:none;
+}
+
+#profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
