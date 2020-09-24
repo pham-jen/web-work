@@ -4,7 +4,7 @@ This project is to practice basic web development skills, focusing on visual coh
 
 ## Video Walkthrough 
 
-<img src='tipCalculatorDemo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='webDemo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
